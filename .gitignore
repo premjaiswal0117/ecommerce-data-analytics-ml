@@ -1,0 +1,11 @@
+# Jupyter junk
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+notebooks/.virtual_documents/
+
+# OS junk
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
