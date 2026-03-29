@@ -9,3 +9,4 @@ Thumbs.db
 # Python cache
 __pycache__/
 *.pyc
+.virtual_documents/
